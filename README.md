@@ -1,8 +1,9 @@
 # Cocoa_Analysis
 
-![1_ST65nz60hdFheBaf5MX-pQ](https://user-images.githubusercontent.com/41158838/136568367-ca33b585-6163-46f3-a36c-03b40b29bac4.png)
 
 In a way, underdevelopment is a paradox. Many parts of the world that are naturally rich are actually poor, and parts that are not so well off in wealth of soil and subsoil are enjoying the highest standards of living.
+
+![1_ST65nz60hdFheBaf5MX-pQ](https://user-images.githubusercontent.com/41158838/136568367-ca33b585-6163-46f3-a36c-03b40b29bac4.png)
 
 ## PROBLEM
 
