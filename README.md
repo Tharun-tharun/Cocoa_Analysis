@@ -16,7 +16,7 @@ In a way, underdevelopment is a paradox. Many parts of the world that are natura
 
 ![image](https://user-images.githubusercontent.com/41158838/136568610-4d096683-31f8-408f-b55b-d02413bc24d3.png)
 
-Consequent Drop in Imports
+## Consequent Drop in Imports
 
 ![image](https://user-images.githubusercontent.com/41158838/136568703-c72bc27b-76c8-4c8a-9c91-dfaabb1e066b.png)
 
